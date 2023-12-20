@@ -1947,7 +1947,8 @@ select.form-control:not([size]):not([multiple]) {
 
 .section-title h2,
 .section-title-white h2 {
-    font-family: "Great Vibes", cursive;
+    /* font-family: "Great Vibes", cursive; */
+    font-family: "Raleway", sans-serif;
     background-color: rgba(94, 154, 142, 0.1);
     font-size: 46px;
     font-size: 2.55556rem;
